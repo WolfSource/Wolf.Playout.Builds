@@ -1,5 +1,4 @@
 #Wolf.Playout-Build
-
 "Wolf.PlayOut" is the codename of TV broadcast Playout automation software which is currently using by AlAlam News Network TV and optimized based MOS Protocol.  This Playout developed based in-house open source game engine called <a href="https://github.com/PooyaEimandar/Wolf.Engine">"Wolf Engine"</a>.
 <hr>
 <h2>Youtube video</h2>
@@ -37,7 +36,6 @@ You can find the latest stable development builds here:
 	</td>	
 </tr>
 </tbody></table>
-
 <h2>Prerequisite</h2>
 The following are some essential prerequisites that should be considered before runnin the application:
 <ul>
@@ -46,4 +44,12 @@ The following are some essential prerequisites that should be considered before 
 vc_redist.x64.exe</a></li>
 <li>Make sure setup <a href="https://www.blackmagicdesign.com/support/download/e852cd3967694dd9810f57c16fa2c6a2/Windows">BlackMagic Desktop Video 10.5.2 Update</a></li>
 <li>As a further aid to understanding how to use this Playout, all of the samples are provided for your reference from <a href="https://www.google.com">here</a>, so please make sure to get and test these video samples and make sure adopt your media information of your videos with samples.</li>
-<ul>
+</ul>
+<h2>Bugs & Issues</h2>
+Although I have taken every care to ensure the accuracy of this product, mistakes do happen and this playout is just at the begining of it's survey. If you find any bug, I would be grateful if you would report this to me at here. 
+<hr>
+<h2>LICENSE</h2>
+<a href="">MIT LICENSE</a>
+<hr>
+<h2>Contact</h2>
+If you're running a business that needs to use this playout or would like to extend this one, you can send an email to contact{at}WolfSource{dot}io .Kindly do not email bugs & questions and just post it on issue page.   
