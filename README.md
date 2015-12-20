@@ -45,9 +45,11 @@ vc_redist.x64.exe</a></li>
 <li>Make sure setup <a href="https://www.blackmagicdesign.com/support/download/e852cd3967694dd9810f57c16fa2c6a2/Windows">BlackMagic Desktop Video 10.5.2 Update</a></li>
 <li>As a further aid to understanding how to use this Playout, all of the samples are provided for your reference from <a href="https://www.google.com">here</a>, so please make sure to get and test these video samples and make sure adopt your media information of your videos with samples.</li>
 </ul>
+<hr>
 <h2>Bugs & Issues</h2>
 Although I have taken every care to ensure the accuracy of this product, mistakes do happen and this playout is just at the begining of it's survey. If you find any bug, I would be grateful if you would report this to me at here. 
-<hr>
+<h2>Change Log</h2>
+<a href="">Change Log</a>
 <h2>LICENSE</h2>
 <a href="">MIT LICENSE</a>
 <hr>
