@@ -49,6 +49,9 @@ You can find the latest stable development builds here:
 	<td>192 khz</td>
 </tr>
 </tbody></table>
+<h2>Video Samples</h2>
+Use following <a href="https://github.com/WolfSource/Wolf.Playout-Builds/raw/master/Video%20Samples.7z">Video samples</a> for your tests.
+<hr>
 <h2>Prerequisite</h2>
 The following are some essential prerequisites that should be considered before runnin the application:
 <ul>
