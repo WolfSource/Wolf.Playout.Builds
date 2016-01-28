@@ -1,4 +1,4 @@
-#Wolf.Playout-Builds
+#Wolf.Playout.Builds
 "Wolf.PlayOut" is the codename of TV broadcast Playout automation software which is currently using by <a href="http://en.alalam.ir/">AlAlam News Network TV</a> and optimized based MOS Protocol. This Playout developed based in-house open source game engine called <a href="https://github.com/PooyaEimandar/Wolf.Engine">"Wolf Engine"</a>.
 <hr>
 <h2>Youtube video</h2>
@@ -19,7 +19,7 @@ You can find the latest stable development builds here:
 	<th>Audio sample rate</th>
 </tr>
 <tr>
-	<td><a href="https://github.com/WolfSource/Wolf.Playout-Builds/raw/master/Wolf.PlayOut.Builds/SD_PAL_25/1.11.1.0_SD_PAL.7z">1.11.1.0.7z</a></td>	
+	<td><a href="https://github.com/WolfSource/Wolf.Playout.Builds/raw/master/Wolf.PlayOut.Builds/SD_PAL_25/1.11.1.0_SD_PAL.7z">1.11.1.0.7z</a></td>	
 	<td>Windows 8.1/10 x64 bit</td>
 	<td>25i PAL</td>	
 	<td>
@@ -50,7 +50,7 @@ You can find the latest stable development builds here:
 </tr>
 </tbody></table>
 <h2>Video Samples</h2>
-Use following <a href="https://github.com/WolfSource/Wolf.Playout-Builds/raw/master/Video%20Samples.7z">Video samples</a> for your tests.
+Use following <a href="https://github.com/WolfSource/Wolf.Playout.Builds/raw/master/Video%20Samples.7z">Video samples</a> for your tests.
 <hr>
 <h2>Prerequisite</h2>
 The following are some essential prerequisites that should be considered before runnin the application:
@@ -70,11 +70,11 @@ vc_redist.x64.exe</a></li>
 </ul>
 <hr>
 <h2>Bugs & Issues</h2>
-Although I have taken every care to ensure the accuracy of this product, mistakes do happen and this playout is just at the begining of it's survey. If you find any bug, I would be grateful if you would report this to me at <a href="https://github.com/WolfSource/Wolf.Playout-Builds/issues">here</a>. 
+Although I have taken every care to ensure the accuracy of this product, mistakes do happen and this playout is just at the begining of it's survey. If you find any bug, I would be grateful if you would report this to me at <a href="https://github.com/WolfSource/Wolf.Playout.Builds/issues">here</a>. 
 <h2>Change Log</h2>
 <a href="#">Change Log</a>
 <h2>LICENSE</h2>
-<a href="https://github.com/WolfSource/Wolf.Playout-Builds/blob/master/LICENSE">MIT LICENSE</a>
+<a href="https://github.com/WolfSource/Wolf.Playout.Builds/blob/master/LICENSE">MIT LICENSE</a>
 <hr>
 <h2>Contact</h2>
 If you're running a business that needs to use this playout or would like to extend this one, you can send an email to contact{at}WolfSource{dot}io .Kindly do not email bugs & questions and just post it on issue page.   
