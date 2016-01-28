@@ -1,5 +1,5 @@
 #Wolf.Playout-Build
-"Wolf.PlayOut" is the codename of TV broadcast Playout automation software which is currently using by AlAlam News Network TV and optimized based MOS Protocol.  This Playout developed based in-house open source game engine called <a href="https://github.com/PooyaEimandar/Wolf.Engine">"Wolf Engine"</a>.
+"Wolf.PlayOut" is the codename of TV broadcast Playout automation software which is currently using by <a href="http://en.alalam.ir/">AlAlam News Network TV</a> and optimized based MOS Protocol. This Playout developed based in-house open source game engine called <a href="https://github.com/PooyaEimandar/Wolf.Engine">"Wolf Engine"</a>.
 <hr>
 <h2>Youtube video</h2>
 <a href="https://www.youtube.com/watch?v=EZSdEjBvuGY" target="_blank"><img src="https://i.ytimg.com/vi/EZSdEjBvuGY/3.jpg?time=1450630345794" width="240" height="180" border="10" /></a>
@@ -15,8 +15,8 @@ You can find the latest stable development builds here:
 	<th>Supported extensions</th>
 </tr>
 <tr>
-	<td>Windows 8/8.1/10 x64</td>
-	<td>1.9.2.1.7z</td>	
+	<td>Windows 8.1/10 x64 bit</td>
+	<td><a href="https://github.com/WolfSource/Wolf.Playout-Builds/raw/master/Wolf.PlayOut.Builds/SD_PAL_25/1.11.1.0_SD_PAL.7z">1.11.1.0.7z</a></td>	
 	<td>25i PAL</td>	
 	<td>
 	    <ul>
@@ -39,15 +39,14 @@ You can find the latest stable development builds here:
 <h2>Prerequisite</h2>
 The following are some essential prerequisites that should be considered before runnin the application:
 <ul>
-<li>The first important requirement is a PC running on Windows 8/8.1/10, with full hd output resolutions(1920 * 1080)</li>
+<li>The first important requirement is a PC running on Windows 8.1/10, with full hd output resolutions(1920 * 1080). Currently Wolf has not DYNAMIC layout</li>
 <li>Make sure setup <a href="https://www.microsoft.com/en-us/download/details.aspx?id=48145">Visual C++ Redistributable for Visual Studio 2015 - 	
 vc_redist.x64.exe</a></li>
 <li>Make sure setup <a href="https://www.blackmagicdesign.com/support/download/e852cd3967694dd9810f57c16fa2c6a2/Windows">BlackMagic Desktop Video 10.5.2 Update</a></li>
-<li>As a further aid to understanding how to use this Playout, all of the samples are provided for your reference from <a href="https://www.google.com">here</a>, so please make sure to get and test these video samples and make sure adopt your media information of your videos with samples.</li>
 </ul>
 <hr>
 <h2>Bugs & Issues</h2>
-Although I have taken every care to ensure the accuracy of this product, mistakes do happen and this playout is just at the begining of it's survey. If you find any bug, I would be grateful if you would report this to me at here. 
+Although I have taken every care to ensure the accuracy of this product, mistakes do happen and this playout is just at the begining of it's survey. If you find any bug, I would be grateful if you would report this to me at <a href="https://github.com/WolfSource/Wolf.Playout-Builds/issues">here</a>. 
 <h2>Change Log</h2>
 <a href="">Change Log</a>
 <h2>LICENSE</h2>
