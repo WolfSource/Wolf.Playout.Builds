@@ -1,4 +1,4 @@
-#Wolf.Playout-Build
+#Wolf.Playout-Builds
 "Wolf.PlayOut" is the codename of TV broadcast Playout automation software which is currently using by <a href="http://en.alalam.ir/">AlAlam News Network TV</a> and optimized based MOS Protocol. This Playout developed based in-house open source game engine called <a href="https://github.com/PooyaEimandar/Wolf.Engine">"Wolf Engine"</a>.
 <hr>
 <h2>Youtube video</h2>
@@ -8,15 +8,19 @@
 You can find the latest stable development builds here:
 <table style="width:100%">
 <tbody><tr>
-	<th>Operating System</th>
 	<th>Current Release</th>
+	<th>Operating System</th>
 	<th>Playback mode</th>
 	<th>Supported video formats</th>
 	<th>Supported extensions</th>
+	<th>Video bitrate</th>
+	<th>Audio channel</th>
+	<th>Audio depth</th>
+	<th>Audio sample rate</th>
 </tr>
 <tr>
-	<td>Windows 8.1/10 x64 bit</td>
 	<td><a href="https://github.com/WolfSource/Wolf.Playout-Builds/raw/master/Wolf.PlayOut.Builds/SD_PAL_25/1.11.1.0_SD_PAL.7z">1.11.1.0.7z</a></td>	
+	<td>Windows 8.1/10 x64 bit</td>
 	<td>25i PAL</td>	
 	<td>
 	    <ul>
@@ -33,7 +37,16 @@ You can find the latest stable development builds here:
 	        <li>mp4</li>
 	        <li>mpg</li>
 	    </ul>
-	</td>	
+	</td>
+	<td>
+	    <ul>
+	        <li>15-30 Mbps for HD</li>
+	        <li>4-8 Mbps for SD</li>
+	    </ul>
+	</td>
+	<td>2</td>
+	<td>16</td>
+	<td>192 khz</td>
 </tr>
 </tbody></table>
 <h2>Prerequisite</h2>
@@ -45,12 +58,20 @@ vc_redist.x64.exe</a></li>
 <li>Make sure setup <a href="https://www.blackmagicdesign.com/support/download/e852cd3967694dd9810f57c16fa2c6a2/Windows">BlackMagic Desktop Video 10.5.2 Update</a></li>
 </ul>
 <hr>
+<h2>System Recommendations</h2>
+<ul>
+<li><strong>CPU</strong>: Wolf Playout takes advantage of multi-threading, so especially for Playing HD 1080p-50, a multi-core CPU is highly recommended.</li>
+<li><strong>GPU</strong>: Wolf Playout requires at least DirectX 11.1, but we encourage you to plan you hardware specifications with DirectX12 consideration for next updates. Make sure update your Graphics Card Driver to the latest one and also update WDDM from windows update.</li>
+<li><strong>RAM</strong>: At least 8 GB RAM needed. (Wolf.PlayOut supports one minute buffering for media, this is efficient way for playing media from network)</li>
+<li><strong>Storage</strong>: SSD Hard drivers is highly recommended</li>
+</ul>
+<hr>
 <h2>Bugs & Issues</h2>
 Although I have taken every care to ensure the accuracy of this product, mistakes do happen and this playout is just at the begining of it's survey. If you find any bug, I would be grateful if you would report this to me at <a href="https://github.com/WolfSource/Wolf.Playout-Builds/issues">here</a>. 
 <h2>Change Log</h2>
-<a href="">Change Log</a>
+<a href="#">Change Log</a>
 <h2>LICENSE</h2>
-<a href="">MIT LICENSE</a>
+<a href="https://github.com/WolfSource/Wolf.Playout-Builds/blob/master/LICENSE">MIT LICENSE</a>
 <hr>
 <h2>Contact</h2>
 If you're running a business that needs to use this playout or would like to extend this one, you can send an email to contact{at}WolfSource{dot}io .Kindly do not email bugs & questions and just post it on issue page.   
