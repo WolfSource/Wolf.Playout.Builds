@@ -67,7 +67,7 @@ vc_redist.x64.exe</a></li>
 <li><strong>CPU</strong>: Wolf Playout takes advantage of multi-threading, so especially for Playing HD 1080p-50, a multi-core CPU is highly recommended.</li>
 <li><strong>GPU</strong>: Wolf Playout requires at least DirectX 11.1, but we encourage you to plan you hardware specifications with DirectX12 consideration for next updates. Make sure update your Graphics Card Driver to the latest one and also update WDDM from windows update.</li>
 <li><strong>RAM</strong>: At least 16 GB RAM needed for HD playback. (Wolf.PlayOut supports one minute buffering for media, this is efficient way for playing media from network)</li>
-<li><strong>Storage</strong>: SSD Hard drivers is highly recommended</li>
+<li><strong>Storage</strong>: SSD Hard drives is highly recommended</li>
 </ul>
 <hr>
 <h2>Bugs & Issues</h2>
