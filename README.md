@@ -19,7 +19,7 @@ You can find the latest stable development builds here:
 	<th>Audio sample rate</th>
 </tr>
 <tr>
-	<td><a href="https://github.com/WolfSource/Wolf.Playout.Builds/raw/master/Wolf.PlayOut.Builds/SD_PAL_25/1.11.1.0_SD_PAL.7z">1.11.1.0.7z</a></td>	
+	<td><a href="https://github.com/WolfSource/Wolf.Playout.Builds/raw/master/Wolf.PlayOut.Builds/SD_PAL_25/Wolf.PlayOut.Win_1.11.1.0_SD_PAL.7z">1.11.1.0.7z</a></td>	
 	<td>Windows 8.1/10 x64 bit</td>
 	<td>25i PAL</td>	
 	<td>
@@ -59,6 +59,7 @@ The following are some essential prerequisites that should be considered before 
 <li>Make sure setup <a href="https://www.microsoft.com/en-us/download/details.aspx?id=48145">Visual C++ Redistributable for Visual Studio 2015 - 	
 vc_redist.x64.exe</a></li>
 <li>Make sure setup <a href="https://www.blackmagicdesign.com/support/download/e852cd3967694dd9810f57c16fa2c6a2/Windows">BlackMagic Desktop Video 10.5.2 Update</a></li>
+<li>Setup following <a href="https://github.com/WolfSource/Wolf.Playout.Builds/raw/master/Dependencies/Fonts.zip">fonts</a></li>
 </ul>
 <hr>
 <h2>System Recommendations</h2>
