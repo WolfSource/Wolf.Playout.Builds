@@ -68,7 +68,7 @@ vc_redist.x64.exe</a></li>
 <li><strong>GPU</strong>: Wolf Playout requires at least DirectX 11.1, but we encourage you to plan you hardware specifications with DirectX12 consideration for next updates. Make sure update your Graphics Card Driver to the latest one and also update WDDM from windows update.</li>
 <li><strong>RAM</strong>: At least 16 GB RAM needed for HD playback. (Wolf.PlayOut supports one minute buffering for media, this is efficient way for playing media from network)</li>
 <li><strong>Storage</strong>: SSD Hard drives is highly recommended</li>
-<li><strong>Blackmagic Decklink Cards</strong>: BlackMagic Design DeckLink 4K Extreme SDI video cards is highly recommended, however Wolf tested on Intensity pro & 3D Extreme HD cards</li>
+<li><strong>Blackmagic Decklink Cards</strong>: BlackMagic Design DeckLink 4K Extreme SDI video card is highly recommended, however Wolf tested on Blackmagic Design Decklink Intensity pro & Blackmagic Design Decklink HD Extreme 3D cards</li>
 </ul>
 <hr>
 <h2>Bugs & Issues</h2>
