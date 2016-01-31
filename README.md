@@ -19,7 +19,12 @@ You can find the latest stable development builds here:
 	<th>Audio sample rate</th>
 </tr>
 <tr>
-	<td><a href="https://github.com/WolfSource/Wolf.Playout.Builds/raw/master/Wolf.PlayOut.Builds/SD_PAL_25/Wolf.PlayOut.Win_1.11.1.0_SD_PAL.7z">1.11.1.0.7z</a></td>	
+	<td>
+	    <ul>
+		<li><a href="https://github.com/WolfSource/Wolf.Playout.Builds/raw/master/Wolf.PlayOut.Builds/HD_1080p_50/Wolf.PlayOut.Win_1.11.1.0_HD_1080p_50.7z">1.11.1.0_HD_1080p_50.7z</a></li>
+		<li><a href="https://github.com/WolfSource/Wolf.Playout.Builds/raw/master/Wolf.PlayOut.Builds/SD_PAL_25/Wolf.PlayOut.Win_1.11.1.0_SD_PAL_25.7z">1.11.1.0_SD_PAL_25.7z</a></li>
+	    </ul>
+	</td>	
 	<td>Windows 8.1/10 x64 bit</td>
 	<td>25i PAL</td>	
 	<td>
