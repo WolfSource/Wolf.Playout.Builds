@@ -10,6 +10,7 @@ You can find the latest stable development builds here:
 <tbody>
 <tr>
 	<th>Current Release</th>
+	<th>Video samples</th>
 	<th>Operating System</th>
 	<th>Playback mode</th>
 	<th>Supported video formats</th>
@@ -18,12 +19,12 @@ You can find the latest stable development builds here:
 	<th>Audio channel</th>
 	<th>Audio depth</th>
 	<th>Audio sample rate</th>
-	<th>Video sample</th>
 </tr>
 <tr>
 	<td>
 	    <a href="https://github.com/WolfSource/Wolf.Playout.Builds/raw/master/Wolf.PlayOut.Builds/HD_1080p_50/Wolf.PlayOut.Win_1.11.1.0_HD_1080p_50.7z">1.11.1.0</a>
-	</td>	
+	</td>
+	<td><a href="https://netorgft1046267-my.sharepoint.com/personal/contact_wolfsource_io/_layouts/15/guestaccess.aspx?guestaccesstoken=27Y19GfEMpEAiUYBav49u6mPqfsazVU8zf%2fgawPK8qI%3d&docid=15b997a25e85044bbb41da1cb5f6ec425">HD_1080p_50.mp4</a></td>
 	<td>Windows 8.1/10 x64 bit</td>
 	<td>1080-50p</td>	
 	<td>
@@ -48,12 +49,12 @@ You can find the latest stable development builds here:
 	<td>2</td>
 	<td>16</td>
 	<td>192 khz</td>
-	<td><a href="https://netorgft1046267-my.sharepoint.com/personal/contact_wolfsource_io/_layouts/15/guestaccess.aspx?guestaccesstoken=ytEvbMzDLZiHGQwzRr1t%2fWBQEqG4R2WMUm4dIDJp%2flI%3d&docid=1010d64fc284541e7bfa52eb193f4ebc2">SD_PAL_25.mp4</a></td>
 </tr>
 <tr>
 	<td>
 	   <a href="https://github.com/WolfSource/Wolf.Playout.Builds/raw/master/Wolf.PlayOut.Builds/SD_PAL_25/Wolf.PlayOut.Win_1.11.1.0_SD_PAL_25.7z">1.11.1.0</a>
-	</td>	
+	</td>
+	<td><a href="https://netorgft1046267-my.sharepoint.com/personal/contact_wolfsource_io/_layouts/15/guestaccess.aspx?guestaccesstoken=ytEvbMzDLZiHGQwzRr1t%2fWBQEqG4R2WMUm4dIDJp%2flI%3d&docid=1010d64fc284541e7bfa52eb193f4ebc2">SD_PAL_25.mp4</a></td>
 	<td>Windows 8.1/10 x64 bit</td>
 	<td>PAL-25p</td>	
 	<td>
@@ -81,12 +82,8 @@ You can find the latest stable development builds here:
 	<td>2</td>
 	<td>16</td>
 	<td>192 khz</td>
-	<td><a href="https://netorgft1046267-my.sharepoint.com/personal/contact_wolfsource_io/_layouts/15/guestaccess.aspx?guestaccesstoken=27Y19GfEMpEAiUYBav49u6mPqfsazVU8zf%2fgawPK8qI%3d&docid=15b997a25e85044bbb41da1cb5f6ec425">HD_1080p_50.mp4</a></td>
 </tr>
 </tbody></table>
-<h2>Video Samples</h2>
-Use following <a href="https://github.com/WolfSource/Wolf.Playout.Builds/raw/master/Video%20Samples.7z">Video samples</a> for your tests.
-<hr>
 <h2>Prerequisite</h2>
 The following are some essential prerequisites that should be considered before runnin the application:
 <ul>
