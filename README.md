@@ -7,7 +7,8 @@
 <h2>Builds</h2>
 You can find the latest stable development builds here:
 <table style="width:100%">
-<tbody><tr>
+<tbody>
+<tr>
 	<th>Current Release</th>
 	<th>Operating System</th>
 	<th>Playback mode</th>
@@ -20,13 +21,39 @@ You can find the latest stable development builds here:
 </tr>
 <tr>
 	<td>
-	    <ul>
-		<li><a href="https://github.com/WolfSource/Wolf.Playout.Builds/raw/master/Wolf.PlayOut.Builds/HD_1080p_50/Wolf.PlayOut.Win_1.11.1.0_HD_1080p_50.7z">1.11.1.0_HD_1080p_50.7z</a></li>
-		<li><a href="https://github.com/WolfSource/Wolf.Playout.Builds/raw/master/Wolf.PlayOut.Builds/SD_PAL_25/Wolf.PlayOut.Win_1.11.1.0_SD_PAL_25.7z">1.11.1.0_SD_PAL_25.7z</a></li>
-	    </ul>
+	    <a href="https://github.com/WolfSource/Wolf.Playout.Builds/raw/master/Wolf.PlayOut.Builds/HD_1080p_50/Wolf.PlayOut.Win_1.11.1.0_HD_1080p_50.7z">1.11.1.0</a>
 	</td>	
 	<td>Windows 8.1/10 x64 bit</td>
-	<td>25i PAL</td>	
+	<td>1080-50p</td>	
+	<td>
+	    <ul>
+	        <li>x265</li>
+	        <li>x264</li>
+	        <li>mpeg4</li>
+	        <li>mpeg2</li>
+	        <li>DV</li>
+	    </ul>
+	</td>
+	<td>
+	    <ul>
+	        <li>avi</li>
+	        <li>mp4</li>
+	        <li>mpg</li>
+	    </ul>
+	</td>
+	<td>
+	    15-30 Mbps
+	</td>
+	<td>2</td>
+	<td>16</td>
+	<td>192 khz</td>
+</tr>
+<tr>
+	<td>
+	   <a href="https://github.com/WolfSource/Wolf.Playout.Builds/raw/master/Wolf.PlayOut.Builds/SD_PAL_25/Wolf.PlayOut.Win_1.11.1.0_SD_PAL_25.7z">1.11.1.0</a>
+	</td>	
+	<td>Windows 8.1/10 x64 bit</td>
+	<td>PAL-25p</td>	
 	<td>
 	    <ul>
 	        <li>x265</li>
