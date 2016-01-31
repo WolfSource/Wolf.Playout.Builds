@@ -18,6 +18,7 @@ You can find the latest stable development builds here:
 	<th>Audio channel</th>
 	<th>Audio depth</th>
 	<th>Audio sample rate</th>
+	<th>Video sample</th>
 </tr>
 <tr>
 	<td>
@@ -47,6 +48,7 @@ You can find the latest stable development builds here:
 	<td>2</td>
 	<td>16</td>
 	<td>192 khz</td>
+	<td><a href="https://netorgft1046267-my.sharepoint.com/personal/contact_wolfsource_io/_layouts/15/guestaccess.aspx?guestaccesstoken=ytEvbMzDLZiHGQwzRr1t%2fWBQEqG4R2WMUm4dIDJp%2flI%3d&docid=1010d64fc284541e7bfa52eb193f4ebc2">SD_PAL_25.mp4</a></td>
 </tr>
 <tr>
 	<td>
@@ -79,6 +81,7 @@ You can find the latest stable development builds here:
 	<td>2</td>
 	<td>16</td>
 	<td>192 khz</td>
+	<td><a href="https://netorgft1046267-my.sharepoint.com/personal/contact_wolfsource_io/_layouts/15/guestaccess.aspx?guestaccesstoken=27Y19GfEMpEAiUYBav49u6mPqfsazVU8zf%2fgawPK8qI%3d&docid=15b997a25e85044bbb41da1cb5f6ec425">HD_1080p_50.mp4</a></td>
 </tr>
 </tbody></table>
 <h2>Video Samples</h2>
