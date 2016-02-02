@@ -75,8 +75,7 @@ You can find the latest stable development builds here:
 	</td>
 	<td>
 	    <ul>
-	        <li>15-30 Mbps for HD</li>
-	        <li>4-8 Mbps for SD</li>
+	        4-8 Mbps
 	    </ul>
 	</td>
 	<td>2</td>
@@ -109,6 +108,10 @@ Although I have taken every care to ensure the accuracy of this product, mistake
 <a href="#">Change Log</a>
 <h2>LICENSE</h2>
 <a href="https://github.com/WolfSource/Wolf.Playout.Builds/blob/master/LICENSE">MIT LICENSE</a>
+<hr>
+<h2>Twitter</h2>
+<a href="http://twitter.com/wolf_source">@Wolf_Source</a>
+<a href="http://twitter.com/pooyaeimandar">@PooyaEimandar</a>
 <hr>
 <h2>Contact</h2>
 If you're running a business that needs to use this playout or would like to change or add new features to it, you can send an email to contact{at}WolfSource{dot}io .Kindly do not email bugs & questions and just post it on issue page.   
