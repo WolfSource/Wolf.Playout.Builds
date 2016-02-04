@@ -116,4 +116,4 @@ Although I have taken every care to ensure the accuracy of this product, mistake
 </ul>
 <hr>
 <h2>Contact</h2>
-If you're running a business that needs to use this playout or would like to change or add new features to it, you can send an email to contact{at}WolfSource{dot}io .Kindly do not email bugs & questions and just post it on issue page.   
+If you're running a business that needs to use this playout or would like to change or add new features to it, you can send an email to contact{at}WolfSource{dot}io .Kindly do not email bugs & questions and just post it on <a href="https://github.com/WolfSource/Wolf.Playout.Builds/issues">issue</a> page.   
