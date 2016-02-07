@@ -54,9 +54,41 @@ You can find the latest stable development builds here:
 	<td>
 	   <a href="https://github.com/WolfSource/Wolf.Playout.Builds/raw/master/Wolf.PlayOut.Builds/SD_PAL_25/Wolf.PlayOut.Win_1.11.1.0_SD_PAL_25.7z">1.11.1.0</a>
 	</td>
-	<td><a href="https://netorgft1046267-my.sharepoint.com/personal/contact_wolfsource_io/_layouts/15/guestaccess.aspx?guestaccesstoken=ytEvbMzDLZiHGQwzRr1t%2fWBQEqG4R2WMUm4dIDJp%2flI%3d&docid=1010d64fc284541e7bfa52eb193f4ebc2">SD_PAL_25.mp4</a></td>
+	<td><a href="https://netorgft1046267-my.sharepoint.com/personal/contact_wolfsource_io/_layouts/15/guestaccess.aspx?guestaccesstoken=ytEvbMzDLZiHGQwzRr1t%2fWBQEqG4R2WMUm4dIDJp%2flI%3d&docid=1010d64fc284541e7bfa52eb193f4ebc2">PAL_DV_25.mp4</a></td>
 	<td>Windows 8.1/10 x64 bit</td>
 	<td>PAL-25p</td>	
+	<td>
+	    <ul>
+	        <li>x265</li>
+	        <li>x264</li>
+	        <li>mpeg4</li>
+	        <li>mpeg2</li>
+	        <li>DV</li>
+	    </ul>
+	</td>
+	<td>
+	    <ul>
+	        <li>avi</li>
+	        <li>mp4</li>
+	        <li>mpg</li>
+	    </ul>
+	</td>
+	<td>
+	    <ul>
+	        4-8 Mbps
+	    </ul>
+	</td>
+	<td>2</td>
+	<td>16</td>
+	<td>192 khz</td>
+</tr>
+<tr>
+	<td>
+	   <a href="https://github.com/WolfSource/Wolf.Playout.Builds/raw/master/Wolf.PlayOut.Builds/SD_PAL_25/Wolf.PlayOut.Win_1.12.0.0_NTSC_29.97.7z">1.12.0.0</a>
+	</td>
+	<td><a href="https://netorgft1046267-my.sharepoint.com/personal/contact_wolfsource_io/_layouts/15/guestaccess.aspx?guestaccesstoken=KIpHfU82eh1Os0DIvyzu9hLDC2b7iUpDYuqFq27b05E%3d&docid=10374c9132e244896a93469384da7951d">NTSC_DV_29.97.mp4</a></td>
+	<td>Windows 8.1/10 x64 bit</td>
+	<td>NTSC-29.97</td>	
 	<td>
 	    <ul>
 	        <li>x265</li>
