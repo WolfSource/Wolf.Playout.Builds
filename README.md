@@ -84,7 +84,7 @@ You can find the latest stable development builds here:
 </tr>
 <tr>
 	<td>
-	   <a href="https://github.com/WolfSource/Wolf.Playout.Builds/raw/master/Wolf.PlayOut.Builds/NTSC_DV_29.97/Wolf.PlayOut.Win_1.12.0.0_NTSC_DV_29.97.7z">1.12.0.0</a>
+	   <a href="https://github.com/WolfSource/Wolf.Playout.Builds/releases/tag/NTSC_v1.12.0.0">1.12.0.0</a>
 	</td>
 	<td><a href="https://netorgft1046267-my.sharepoint.com/personal/contact_wolfsource_io/_layouts/15/guestaccess.aspx?guestaccesstoken=KIpHfU82eh1Os0DIvyzu9hLDC2b7iUpDYuqFq27b05E%3d&docid=10374c9132e244896a93469384da7951d">NTSC_DV_29.97.mp4</a></td>
 	<td>Windows 8.1/10 x64 bit</td>
