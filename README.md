@@ -16,6 +16,7 @@ You can find the latest stable development builds here:
 	<th>Supported video formats</th>
 	<th>Supported extensions</th>
 	<th>Video bitrate</th>
+	<th>Video frame size</th>
 	<th>Audio channel</th>
 	<th>Audio depth</th>
 	<th>Audio sample rate</th>
@@ -46,17 +47,18 @@ You can find the latest stable development builds here:
 	<td>
 	    15-30 Mbps
 	</td>
+	<td>1920 * 1080</td>
 	<td>2</td>
 	<td>16</td>
 	<td>192 khz</td>
 </tr>
 <tr>
 	<td>
-	   <a href="https://github.com/WolfSource/Wolf.Playout.Builds/raw/master/Wolf.PlayOut.Builds/PAL_DV_25/Wolf.PlayOut.Win_1.11.1.0_PAL_DV_25.7z">1.11.1.0</a>
+	   <a href="https://github.com/WolfSource/Wolf.Playout.Builds/releases/tag/PAL_v1.12.0.0">1.11.1.0</a>
 	</td>
 	<td><a href="https://netorgft1046267-my.sharepoint.com/personal/contact_wolfsource_io/_layouts/15/guestaccess.aspx?guestaccesstoken=ytEvbMzDLZiHGQwzRr1t%2fWBQEqG4R2WMUm4dIDJp%2flI%3d&docid=1010d64fc284541e7bfa52eb193f4ebc2">PAL_DV_25.mp4</a></td>
 	<td>Windows 8.1/10 x64 bit</td>
-	<td>PAL-25p</td>	
+	<td>PAL_DV_25</td>	
 	<td>
 	    <ul>
 	        <li>x265</li>
@@ -78,6 +80,7 @@ You can find the latest stable development builds here:
 	        4-12 Mbps
 	    </ul>
 	</td>
+	<td>720 * 576</td>
 	<td>2</td>
 	<td>16</td>
 	<td>192 khz</td>
@@ -110,6 +113,7 @@ You can find the latest stable development builds here:
 	        3-10 Mbps
 	    </ul>
 	</td>
+	<td>720 * 480</td>
 	<td>2</td>
 	<td>16</td>
 	<td>192 khz</td>
