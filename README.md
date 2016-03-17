@@ -54,6 +54,37 @@ You can find the latest stable development builds here:
 </tr>
 <tr>
 	<td>
+	    <a href="https://github.com/WolfSource/Wolf.Playout.Builds/releases/download/HD_1080_25p_v1.13.0.0/Wolf.PlayOut.Win_1.13.0.0_HD_1080p_25.7z">1.13.0.0</a>
+	</td>
+	<td><a href="https://netorgft1046267-my.sharepoint.com/personal/contact_wolfsource_io/_layouts/15/guestaccess.aspx?guestaccesstoken=27Y19GfEMpEAiUYBav49u6mPqfsazVU8zf%2fgawPK8qI%3d&docid=15b997a25e85044bbb41da1cb5f6ec425">HD_1080_25p.mp4</a></td>
+	<td>Windows 8.1/10 x64 bit</td>
+	<td>1080-25p</td>	
+	<td>
+	    <ul>
+	        <li>x265</li>
+	        <li>x264</li>
+	        <li>mpeg4</li>
+	        <li>mpeg2</li>
+	        <li>DV</li>
+	    </ul>
+	</td>
+	<td>
+	    <ul>
+	        <li>avi</li>
+	        <li>mp4</li>
+	        <li>mpg</li>
+	    </ul>
+	</td>
+	<td>
+	    15-30 Mbps
+	</td>
+	<td>1920 * 1080</td>
+	<td>2</td>
+	<td>16</td>
+	<td>192 khz</td>
+</tr>
+<tr>
+	<td>
 	   <a href="https://github.com/WolfSource/Wolf.Playout.Builds/releases/tag/PAL_v1.12.0.0">1.12.0.0</a>
 	</td>
 	<td><a href="https://netorgft1046267-my.sharepoint.com/personal/contact_wolfsource_io/_layouts/15/guestaccess.aspx?guestaccesstoken=ytEvbMzDLZiHGQwzRr1t%2fWBQEqG4R2WMUm4dIDJp%2flI%3d&docid=1010d64fc284541e7bfa52eb193f4ebc2">PAL_DV_25.mp4</a></td>
