@@ -56,7 +56,7 @@ You can find the latest stable development builds here:
 	<td>
 	    <a href="https://github.com/WolfSource/Wolf.Playout.Builds/releases/download/HD_1080_25p_v1.13.0.0/Wolf.PlayOut.Win_1.13.0.0_HD_1080p_25.7z">1.13.0.0</a>
 	</td>
-	<td><a href="https://netorgft1046267-my.sharepoint.com/personal/contact_wolfsource_io/_layouts/15/guestaccess.aspx?guestaccesstoken=27Y19GfEMpEAiUYBav49u6mPqfsazVU8zf%2fgawPK8qI%3d&docid=15b997a25e85044bbb41da1cb5f6ec425">HD_1080_25p.mp4</a></td>
+	<td><a href="https://netorgft1046267-my.sharepoint.com/personal/contact_wolfsource_io/_layouts/15/guestaccess.aspx?guestaccesstoken=27Y19GfEMpEAiUYBav49u6mPqfsazVU8zf%2fgawPK8qI%3d&docid=15b997a25e85044bbb41da1cb5f6ec425">HD_1080p_25.mp4</a></td>
 	<td>Windows 8.1/10 x64 bit</td>
 	<td>1080-25p</td>	
 	<td>
