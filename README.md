@@ -150,7 +150,7 @@ You can find the latest stable development builds here:
 	<td>192 khz</td>
 </tr>
 </tbody></table>
-<h2>Prerequisite</h2>
+<h2>Prerequisites</h2>
 The following are some essential prerequisites that should be considered before runnin the application:
 <ul>
 <li>The first important requirement is a PC running on Windows 8.1/10, with full hd output resolutions(1920 * 1080). Currently Wolf has not DYNAMIC layout</li>
