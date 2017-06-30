@@ -1,5 +1,5 @@
 #Wolf.Playout.Builds
-"Wolf.PlayOut" is the codename of a TV broadcast Playout automation software which is currently using by <a href="http://en.alalam.ir/">AlAlam News Network TV</a> and optimized based MOS Protocol. This software have been developed based an in-house open source game engine called <a href="https://github.com/PooyaEimandar/Wolf.Engine">"Wolf Engine"</a>.
+"Wolf.PlayOut" is the codename of a TV broadcast Playout automation software which is optimized based MOS Protocol. This software have been developed based an in-house open source game engine called <a href="https://github.com/PooyaEimandar/Wolf.Engine">"Wolf Engine"</a>.
 <hr>
 <h2>Youtube video</h2>
 <a href="https://www.youtube.com/watch?v=EZSdEjBvuGY" target="_blank"><img src="https://i.ytimg.com/vi/EZSdEjBvuGY/3.jpg?time=1450630345794" width="240" height="180" border="10" /></a>
