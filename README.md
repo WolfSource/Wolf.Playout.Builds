@@ -4,6 +4,8 @@
 <h2>Youtube video</h2>
 <a href="https://www.youtube.com/watch?v=EZSdEjBvuGY" target="_blank"><img src="https://i.ytimg.com/vi/EZSdEjBvuGY/3.jpg?time=1450630345794" width="240" height="180" border="10" /></a>
 <hr>
+<h2>Support this project in order to make it open source</h2>
+<a href="https://www.patreon.com/wolf_engine"><img src="https://raw.githubusercontent.com/WolfSource/Wolf.Engine/master/utilities/becomepatron.png" width="328" height="145" alt="WolfSource"/></a>
 <h2>Builds</h2>
 You can find the latest stable development builds here:
 <table style="width:100%">
