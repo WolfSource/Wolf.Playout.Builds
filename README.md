@@ -4,7 +4,7 @@
 <h2>Youtube video</h2>
 <a href="https://www.youtube.com/watch?v=EZSdEjBvuGY" target="_blank"><img src="https://i.ytimg.com/vi/EZSdEjBvuGY/3.jpg?time=1450630345794" width="240" height="180" border="10" /></a>
 <hr>
-<h2>Support this project in order to make it open source</h2>
+<h2>Support this project and make it open source</h2>
 <a href="https://www.patreon.com/wolf_engine"><img src="https://raw.githubusercontent.com/WolfSource/Wolf.Engine/master/utilities/becomepatron.png" width="328" height="145" alt="WolfSource"/></a>
 <h2>Builds</h2>
 You can find the latest stable development builds here:
@@ -180,8 +180,8 @@ Although I have taken every care to ensure the accuracy of this product, mistake
 <hr>
 <h2>Twitter</h2>
 <ul>
-<li><a href="http://twitter.com/wolf_source">@Wolf_Source</a></li>
-<li><a href="http://twitter.com/pooyaeimandar">@PooyaEimandar</a></li>
+<li><a href="https://twitter.com/wolf_engine">@Wolf_Engine</a></li>
+<li><a href="https://twitter.com/WolfSource_io">@WolfSource_io</a></li>
 </ul>
 <hr>
 <h2>Contact</h2>
